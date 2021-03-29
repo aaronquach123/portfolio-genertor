@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-genertor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronquach123/portfolio-genertor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronquach123/portfolio-genertor/issues"
+  },
+  "homepage": "https://github.com/aaronquach123/portfolio-genertor#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
